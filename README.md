@@ -1,6 +1,8 @@
 # Project Diva Controller
 
-## 中文
+[中文](#中文) | [English](#english) | [Русский](#русский)
+
+### 中文
 
 此程式可以把iPad/安卓平板或任何具有觸控螢幕以及瀏覽器的裝置變成Hatsune Miku: Project Diva的控制器，類似Switch版的觸控遊玩功能。
 
@@ -19,7 +21,7 @@
 
 ---
 
-## English
+### English
 
 This application can transform your iPad/Android tablet or any device with a touchscreen and browser into a controller for Hatsune Miku: Project Diva, providing a touch-based control experience similar to the Nintendo Switch version's Tap Play.
 
@@ -38,7 +40,7 @@ For iOS users, you may need to exit full-screen mode. You'll find out why once y
 
 ---
 
-## Русский
+### Русский
 
 Это приложение позволяет превратить iPad/Android-планшет или любое устройство с сенсорным экраном и браузером в контроллер для Hatsune Miku: Project Diva, обеспечивая сенсорное управление, аналогичное режиму Tap Play в версии для Nintendo Switch.
 
