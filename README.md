@@ -1,8 +1,10 @@
+# Project Diva Controller
+
 ## 中文
 
 此程式可以把iPad/安卓平板或任何具有觸控螢幕以及瀏覽器的裝置變成Hatsune Miku: Project Diva的控制器，類似Switch版的觸控遊玩功能。
 
-![image](https://raw.githubusercontent.com/JamilHsu/ProjectDivaController/refs/heads/master/ProjectDivaController%20Web%E9%81%8B%E4%BD%9C%E7%95%AB%E9%9D%A2.jpg)
+<img src="https://raw.githubusercontent.com/JamilHsu/ProjectDivaController/refs/heads/master/ProjectDivaController%20Web%E9%81%8B%E4%BD%9C%E7%95%AB%E9%9D%A2.jpg" width="400" />
 
 使用方法:在電腦上啟動此程式，然後在平板上的瀏覽器網址列輸入"電腦IP":3939，例如`192.168.50.122:3939`。
 你可能會需要先將你的裝置與電腦置於同一個區域網路中，例如連接同一個wifi、裝置連接到電腦的行動熱點，或是使用USB線將電腦連上裝置的個人熱點(推薦)
@@ -21,7 +23,7 @@
 
 This application can transform your iPad/Android tablet or any device with a touchscreen and browser into a controller for Hatsune Miku: Project Diva, providing a touch-based control experience similar to the Nintendo Switch version's Tap Play.
 
-![image](https://raw.githubusercontent.com/JamilHsu/ProjectDivaController/refs/heads/master/ProjectDivaController%20Web%E9%81%8B%E4%BD%9C%E7%95%AB%E9%9D%A2.jpg)
+<img src="https://raw.githubusercontent.com/JamilHsu/ProjectDivaController/refs/heads/master/ProjectDivaController%20Web%E9%81%8B%E4%BD%9C%E7%95%AB%E9%9D%A2.jpg" width="400" />
 
 How to use: Launch this program on your computer, and then enter "your computer's IP address":3939 in the URL bar of your browser on your device, for example, `192.168.50.122:3939`.
 You may need to first put your device and computer on the same local area network, such as connecting to the same Wi-Fi, connecting your device to your computer's mobile hotspot, or using a USB cable to connect your computer to your device's personal hotspot (recommended).
@@ -40,7 +42,7 @@ For iOS users, you may need to exit full-screen mode. You'll find out why once y
 
 Это приложение позволяет превратить iPad/Android-планшет или любое устройство с сенсорным экраном и браузером в контроллер для Hatsune Miku: Project Diva, обеспечивая сенсорное управление, аналогичное режиму Tap Play в версии для Nintendo Switch.
 
-![image](https://raw.githubusercontent.com/JamilHsu/ProjectDivaController/refs/heads/master/ProjectDivaController%20Web%E9%81%8B%E4%BD%9C%E7%95%AB%E9%9D%A2.jpg)
+<img src="https://raw.githubusercontent.com/JamilHsu/ProjectDivaController/refs/heads/master/ProjectDivaController%20Web%E9%81%8B%E4%BD%9C%E7%95%AB%E9%9D%A2.jpg" width="400" />
 
 Как использовать: запустите программу на компьютере, затем введите в адресную строку браузера на вашем устройстве "IP-адрес компьютера":3939, например `192.168.50.122:3939`.
 Возможно, потребуется предварительно подключить устройство и компьютер к одной локальной сети — например, к одному Wi-Fi, подключить устройство к мобильной точке доступа компьютера или использовать USB-кабель для подключения компьютера к личной точке доступа устройства (рекомендуется).
