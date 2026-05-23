@@ -20,5 +20,7 @@ The parameters for adjusting the dedicated slider area are located in WebClient/
 對於IOS用戶，可能會需要退出全螢幕模式。至於理由當你碰到後就知道了。  
 For iOS users, you may need to exit full-screen mode. You'll find out why once you encounter it. "It looks like you are typing while in full screen"
 
+There are known issues with WebSocket in Safari/iOS 26. iOS users may need to try using different browsers.
+
 [1]: https://github.com/JamilHsu/ProjectDivaControllerServer
 [2]: https://github.com/JamilHsu/ProjectDivaControllerClient
