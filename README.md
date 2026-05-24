@@ -19,6 +19,8 @@
 
 對於IOS用戶，可能會需要退出全螢幕模式。至於理由當你碰到後就知道了。
 
+已知在Safari/iOS 26上存在一些問題，導致WebSocket無法連線。使用者可能會需要嘗試換一個瀏覽器。詳情請自行上網搜尋相關內容。
+
 ---
 
 ### English
@@ -36,6 +38,8 @@ The parameters for adjusting the dedicated slider area are located in WebClient/
 
 For iOS users, you may need to exit full-screen mode. You'll find out why once you encounter it. "It looks like you are typing while in full screen"
 
+It is known that there are some issues on Safari/iOS 26 that can prevent WebSocket connections from working. Users may need to try a different browser. Please search online for related details yourself.
+
 ---
 
 ### Русский
@@ -52,6 +56,8 @@ For iOS users, you may need to exit full-screen mode. You'll find out why once y
 Параметры для настройки области свайпов находятся в WebClient/client.html: `const slider_height = 25;`
 
 Пользователям iOS может потребоваться выйти из полноэкранного режима. Причина станет очевидна, когда вы с ней столкнётесь. «Похоже, вы печатаете в полноэкранном режиме»
+
+В браузерах Safari/iOS 26 известны проблемы, препятствующие установлению WebSocket-соединений. Пользователям может потребоваться попробовать другой браузер. Для получения более подробной информации воспользуйтесь поиском в интернете.
 
 [1]: https://github.com/JamilHsu/ProjectDivaControllerServer
 [2]: https://github.com/JamilHsu/ProjectDivaControllerClient
